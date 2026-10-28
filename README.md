@@ -21,9 +21,3 @@ pip install pandas
 python src/analyze_procurement.py
 ```
 
-
-## Resume entry (after running and understanding it)
-**ERP Procurement & Inventory Analytics Simulation | SQL, Python, Excel, Power BI**
-- Analysed 180 synthetic purchase orders to monitor supplier delivery, damaged units, order value, and inventory accuracy.
-- Built SQL queries and Python checks to identify late deliveries, damaged goods, inventory variances, and data-quality issues.
-- Prepared KPI summaries and exception reports to support operational review and process-improvement discussions.
