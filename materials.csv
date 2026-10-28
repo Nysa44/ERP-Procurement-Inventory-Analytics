@@ -1,0 +1,9 @@
+material_id,material_name,category,unit,standard_unit_cost
+MAT001,Packaging Box,Packaging,EA,4.5
+MAT002,Safety Gloves,Safety,PAIR,7.2
+MAT003,Barcode Labels,Packaging,ROLL,12.0
+MAT004,Storage Bin,Warehouse,EA,32.0
+MAT005,Hand Scanner,Equipment,EA,280.0
+MAT006,Shipping Tape,Packaging,ROLL,6.0
+MAT007,Pallet Wrap,Packaging,ROLL,18.5
+MAT008,Safety Vest,Safety,EA,22.0

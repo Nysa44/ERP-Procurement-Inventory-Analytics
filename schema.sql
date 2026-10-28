@@ -1,0 +1,3 @@
+CREATE TABLE suppliers (supplier_id VARCHAR(10) PRIMARY KEY, supplier_name VARCHAR(100), country VARCHAR(50));
+CREATE TABLE materials (material_id VARCHAR(10) PRIMARY KEY, material_name VARCHAR(100), category VARCHAR(50), unit VARCHAR(20), standard_unit_cost DECIMAL(12,2));
+CREATE TABLE purchase_orders (po_id VARCHAR(10) PRIMARY KEY, order_date DATE, supplier_id VARCHAR(10), material_id VARCHAR(10), ordered_qty INTEGER, unit_cost DECIMAL(12,2), promised_days INTEGER, received_date DATE, received_qty INTEGER, damaged_qty INTEGER, order_value DECIMAL(14,2), delivery_days INTEGER, on_time INTEGER, damage_rate DECIMAL(6,4));

@@ -1,0 +1,9 @@
+snapshot_date,material_id,material_name,system_qty,physical_qty,variance_qty,inventory_accuracy_pct,standard_unit_cost
+2026-09-30,MAT001,Packaging Box,497,487,-10,97.99,4.5
+2026-09-30,MAT002,Safety Gloves,277,278,1,99.64,7.2
+2026-09-30,MAT003,Barcode Labels,407,389,-18,95.58,12.0
+2026-09-30,MAT004,Storage Bin,474,456,-18,96.2,32.0
+2026-09-30,MAT005,Hand Scanner,455,458,3,99.34,280.0
+2026-09-30,MAT006,Shipping Tape,432,430,-2,99.54,6.0
+2026-09-30,MAT007,Pallet Wrap,445,435,-10,97.75,18.5
+2026-09-30,MAT008,Safety Vest,433,431,-2,99.54,22.0
