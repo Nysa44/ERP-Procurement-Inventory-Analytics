@@ -23,11 +23,6 @@ pip install pandas
 python src/analyze_procurement.py
 ```
 
-## Suggested Power BI extension
-Import the CSV files, relate purchase orders to suppliers and materials by IDs, then add KPI cards for on-time delivery, damage rate, average delivery days, and inventory accuracy. Include supplier comparisons, an exception table, and inventory variance visuals. Label the dashboard as a synthetic training simulation.
-
-## Interview explanation
-"I built an ERP-inspired procurement and inventory analytics simulation using synthetic purchase-order and stock-count data. I wrote SQL queries, used Python to validate records and flag late or damaged orders, and prepared KPI outputs for operational reporting. It helped me understand how procurement and inventory data supports business-process monitoring. It was a simulation rather than an SAP system implementation."
 
 ## Resume entry (after running and understanding it)
 **ERP Procurement & Inventory Analytics Simulation | SQL, Python, Excel, Power BI**
